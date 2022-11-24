@@ -11,3 +11,6 @@ https://sketchfab.com/3d-models/9mm-bullet-dac549f6a99d4856b12cc814828637de
 
 Footsteps, Sneakers, Tile, Slow by neohylanmay on freesound:
 https://freesound.org/people/neohylanmay/sounds/333202/
+
+empty-gun-failure-to-fire-trigger-pull-3 by CosmicEmbers on freesound:
+https://freesound.org/people/CosmicEmbers/sounds/387484/
