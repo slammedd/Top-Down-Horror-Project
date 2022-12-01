@@ -14,3 +14,6 @@ https://freesound.org/people/neohylanmay/sounds/333202/
 
 empty-gun-failure-to-fire-trigger-pull-3 by CosmicEmbers on freesound:
 https://freesound.org/people/CosmicEmbers/sounds/387484/
+
+Small Glass Smashing by mypantsfelldown on freesound:
+https://freesound.org/people/mypantsfelldown/
